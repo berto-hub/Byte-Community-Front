@@ -1,0 +1,38 @@
+.page-pod {
+    display: flex;
+    flex-direction: row;
+}
+
+.podcast {
+    margin-left: 20px;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(204, 200, 200);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image {
+    margin-bottom: 2%;
+}
+
+audio {
+    width: 80%;
+}
+
+.listPodcasts {
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.element-pod {
+    display: flex;
+    flex-direction: row;
+    margin-left: -50px;
+    margin-bottom: 20px;
+}
